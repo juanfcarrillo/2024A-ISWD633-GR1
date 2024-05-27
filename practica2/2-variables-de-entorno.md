@@ -52,4 +52,5 @@ Es necesario especificar la ruta absoluta del archivo si este se encuentra en un
 <img width="730" alt="image" src="https://github.com/juanfcarrillo/2024A-ISWD633-GR1/assets/78522923/5eae196e-cea4-4bee-854c-a11d8aa39c30">
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-Mysql
+<img width="202" alt="image" src="https://github.com/juanfcarrillo/2024A-ISWD633-GR1/assets/78522923/a2fe71c0-f81d-4a31-b7ef-a4a1499ae1fb">
+
