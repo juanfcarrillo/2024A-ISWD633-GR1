@@ -33,9 +33,14 @@ Ruta carpeta host: .../ejercicio3/www
 <img width="846" alt="image" src="https://github.com/juanfcarrillo/2024A-ISWD633-GR1/assets/78522923/0e131700-8d9d-4da1-b970-1dc15982d6fd">
 
 
-### Personalizar la apariencia de wordpress y agregar una entrada
+<img width="1443" alt="image" src="https://github.com/juanfcarrillo/2024A-ISWD633-GR1/assets/78522923/874a043c-37d7-4a2e-b948-2ef9ddeadae1">
 
 ### Eliminar el contenedor y crearlo nuevamente, ¿qué ha sucedido?
+
+Los cambios y configuraciones se han mantenido
+
+<img width="1450" alt="image" src="https://github.com/juanfcarrillo/2024A-ISWD633-GR1/assets/78522923/b173f955-7912-42b7-930c-694c02b15ead">
+
 
 # COMPLETAR CON LA RESPUESTA A LA PREGUNTA
 
